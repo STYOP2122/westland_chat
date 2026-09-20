@@ -1,0 +1,6 @@
+[submodule "vendor/freetype2"]
+	path = vendor/freetype2
+	url = https://gitlab.freedesktop.org/freetype/freetype.git
+[submodule "vendor/imgui"]
+	path = vendor/imgui
+	url = https://github.com/ocornut/imgui.git
